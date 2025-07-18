@@ -1,6 +1,6 @@
 # Genetic Algorithm for Video Storing Problem
 
-This is a group assignment for the **Evolutionary Computing** course. We implement a solution to the **Video Storing Problem** using a **Genetic Algorithm (GA)**, as introduced in Lecture 04. The solution is developed and tested using **Google Colab** for ease of collaboration and experimentation.
+This is a group assignment for the **Evolutionary Computing** course. We implement a solution to the **Video Storing Problem** using a **Genetic Algorithm (GA)**. The solution is developed and tested using **Google Colab** for ease of collaboration and experimentation.
 
 ---
 
