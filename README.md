@@ -44,7 +44,7 @@ We use a Genetic Algorithm approach which mimics natural selection via:
 
 You can run the implementation directly in Google Colab:
 
-👉 https://colab.research.google.com/drive/1inJEGZX35XvvHbljOhbTTiyhVsU8zBi7?usp=sharing
+👉 https://colab.research.google.com/drive/1EvR7C7fFkMfOcO4_vctuiLuCZByepyA_?usp=sharing
 
 **Steps to Use:**
 1. Open the notebook.
